@@ -1,0 +1,19 @@
+{
+    "name": "nazik/faker-blog",
+    "description": "Composer based blog system.",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.19"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nazik\\FakerBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazik4114",
+            "email": "nazikban14@gmail.com"
+        }
+    ]
+}
